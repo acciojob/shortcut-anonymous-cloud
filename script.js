@@ -20,4 +20,4 @@ console.log(shortcut("Amnesty", ""));
 // Do not change the code below.
 const str1 = prompt("Enter s1:");
 const str2 = prompt("Enter s2:");
-alert(shortcut(s1, s2));
+alert(shortcut(str1, str2));
